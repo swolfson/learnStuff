@@ -1,0 +1,10 @@
+
+
+#testing yield and method creation
+#
+#
+def greeter
+
+	yield
+end
+
